@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o João Vitor 👋
 
-<!--
-**JoaoVSL16/JoaoVSL16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Desenvolvedor Full Stack em consolidação
+Atualmente focado no ecossistema JavaScript, construindo soluções web escaláveis do Front-end ao Back-end.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** JavaScript, TypeScript, HTML5, CSS3
+- **Back-end:** Node.js, Express, SQL (PostgreSQL)
+- **Front-end:** React.js
+- **Versionamento & Ferramentas:** Git, GitHub, VS Code
+
+---
+
+### 🌐 Conecte-se comigo
+- LinkedIn: [linkedin.com/in/joaovsl](https://www.linkedin.com/in/joaovsl)
+- E-mail: jvitorsantoslima@gmail.com
+  
